@@ -16,7 +16,7 @@ class TextModel(BaseModel):
     def process_text(self, text):
         if not self.is_loaded:
             self.load()
-        # Truncate if needed
+        # Truncate if needed sdfsdf
         if len(text) > self.max_length:
             text = text[:self.max_length]
         return f"Processed: {text}"
