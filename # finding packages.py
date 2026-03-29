@@ -1,0 +1,14 @@
+# finding packages 
+""" Finding packages
+Where to find packages:
+PyPI - Official Python package index
+Awesome Python - Curated list
+ChatGPT - Ask “What Python package should I use for [task]?” - Great for recommendations and comparisons
+Google “Python package for [task]”"""
+         
+
+
+
+
+
+
